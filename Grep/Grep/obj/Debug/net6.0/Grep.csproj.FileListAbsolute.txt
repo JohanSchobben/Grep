@@ -1,0 +1,15 @@
+C:\Users\johan\Documents\school\grep\Grep\Grep\bin\Debug\net6.0\Grep.exe
+C:\Users\johan\Documents\school\grep\Grep\Grep\bin\Debug\net6.0\Grep.deps.json
+C:\Users\johan\Documents\school\grep\Grep\Grep\bin\Debug\net6.0\Grep.runtimeconfig.json
+C:\Users\johan\Documents\school\grep\Grep\Grep\bin\Debug\net6.0\Grep.dll
+C:\Users\johan\Documents\school\grep\Grep\Grep\bin\Debug\net6.0\Grep.pdb
+C:\Users\johan\Documents\school\grep\Grep\Grep\obj\Debug\net6.0\Grep.csproj.AssemblyReference.cache
+C:\Users\johan\Documents\school\grep\Grep\Grep\obj\Debug\net6.0\Grep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Documents\school\grep\Grep\Grep\obj\Debug\net6.0\Grep.AssemblyInfoInputs.cache
+C:\Users\johan\Documents\school\grep\Grep\Grep\obj\Debug\net6.0\Grep.AssemblyInfo.cs
+C:\Users\johan\Documents\school\grep\Grep\Grep\obj\Debug\net6.0\Grep.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\school\grep\Grep\Grep\obj\Debug\net6.0\Grep.dll
+C:\Users\johan\Documents\school\grep\Grep\Grep\obj\Debug\net6.0\refint\Grep.dll
+C:\Users\johan\Documents\school\grep\Grep\Grep\obj\Debug\net6.0\Grep.pdb
+C:\Users\johan\Documents\school\grep\Grep\Grep\obj\Debug\net6.0\Grep.genruntimeconfig.cache
+C:\Users\johan\Documents\school\grep\Grep\Grep\obj\Debug\net6.0\ref\Grep.dll

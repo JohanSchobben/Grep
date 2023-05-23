@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Grep": {
+      "commandName": "Project",
+      "commandLineArgs": "zin testdata\\one.txt"
+    }
+  }
+}
